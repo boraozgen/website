@@ -1,0 +1,34 @@
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: 'Bora Özgen'
+theme: 'PaperMod'
+
+params:
+    profileMode:
+        enabled: true
+        title: "Bora Özgen"
+        subtitle: "Embedded Software Engineer"
+        imageUrl: "profile.jpg" # optional
+        imageTitle: "<title of image as alt>" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+            - name: Resume
+              url: "/resume"
+
+    socialIcons:
+        - name: "github"
+          url: "https://github.com/boraozgen/"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/boraozgen/"
+        - name: "xing"
+          url: "https://www.xing.com/profile/Bora_Oezgen2"
+
+menu:
+    main:
+        - name: Resume
+          url: resume
+          weight: 5
+        - name: Contact
+          url: contact
+          weight: 10
