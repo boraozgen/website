@@ -1,2 +1,14 @@
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+
+[[redirects]]
+  from = "https://ozgen.me"
+  to = "https://bora.ozgen.me"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.ozgen.me"
+  to = "https://bora.ozgen.me"
+  status = 301
+  force = true
