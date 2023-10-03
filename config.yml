@@ -15,9 +15,6 @@ params:
             - name: Resume
               url: "/resume"
 
-    defaultTheme: dark
-    disableThemeToggle: true
-
     socialIcons:
         - name: "github"
           url: "https://github.com/boraozgen/"
