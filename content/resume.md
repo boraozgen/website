@@ -1,5 +1,7 @@
-I am a software engineer with electronics background and current focus on embedded systems. 
-I am experienced in microcontroller programming with a focus on connectivity.
+I am a software engineer with electronics background and current focus on embedded systems, 
+with 5+ years of experience in microcontroller programming and communication protocols. 
+
+Currently working at the engineering firm [Nantis GmbH](https://www.nantis.de), developing firmware for customer projects and the [Gridknight](https://www.gridknight.com) smart plug.
 
 ## Skills
 
@@ -41,23 +43,26 @@ I am experienced in microcontroller programming with a focus on connectivity.
 
 ## Interests
 
-- Modern system programming languages such as Rust and Zig. I follow blogs and occasionally develop small projects to keep up-to-date. C/C++ is not going anywhere soon, so modern C/C++ too. Keeping an eye on Ada/SPARK for formal verification on safety-critical systems.
-- Modern RTOSs such as Zephyr and NuttX. I developed many projects with Mbed OS but since it has been abandoned by Arm, I am exploring alternatives.
-- Modern communication technologies such as CoAP, lwm2m, Bluetooth Mesh.
-- Software quality: Static & dynamic analysis, testing, emulation
-- Multi-core systems: SMP on MCUs and AMP with Linux-MCU combination.
-- Hardware platforms: RISC-V
-- (Real) Embedded Linux: I have some experience with Buildroot and Qt5 but I would like to explore deeper embedded Linux with Yocto and driver development.
-- Linux desktop OS and tools: Unfortunately Windows was traditionally a prerequisite for embedded development, however I am observing that more and more tools support Linux, so I might try switching to a Linux development machine soon. I know some essential Linux commands but would like to learn more.
-- Formal requirements engineering and system design tools (UML/SysML)
-- Computer networks and distributed systems
-
-## Non-interests
-
-- Hardware development
-- Web/mobile frontend development
-- Archaic programming languages and build systems
-- Proprietary/closed-source systems and frameworks
+- Modern system programming languages such as Rust and Zig
+    - I follow blogs and occasionally develop small projects to keep up-to-date.
+    - C/C++ is not going anywhere soon, so modern C/C++ too. 
+    - Keeping an eye on Ada/SPARK for formal verification on safety-critical systems.
+- Modern RTOSs such as Zephyr and NuttX
+    - I developed many projects with Mbed OS but since it has been abandoned by Arm, I am exploring alternatives.
+- Emerging communication technologies
+    - CoAP, LwM2M, Bluetooth Mesh, Matter etc.
+- Software engineering
+    - Quality assurance: Static & dynamic analysis, testing, emulation
+    - Requirements engineering and system design tools (UML/SysML)
+- Open-source software
+    - Contributing back to the community
+- Multi-core systems
+    - SMP on MCUs and AMP with Linux-MCU combination
+- Embedded Linux
+    - I have some experience with Buildroot and Qt5 but I would like to explore deeper embedded Linux with Yocto and driver development.
+- Linux desktop OS and tools
+    - Unfortunately Windows was traditionally a prerequisite for embedded development, however I am observing that more and more tools support Linux, so I might try switching to a Linux development machine soon. I know some essential Linux commands but would like to learn more.
+- RISC-V architecture
 
 ## Work Experience
 
@@ -72,7 +77,7 @@ I am experienced in microcontroller programming with a focus on connectivity.
 - Working student & Bachelor's thesis @ Arçelik A.Ş. (2015-2016)
     - Hardware and firmware development of an air quality sensor based on AVR MCUs
 
-## Voluntary Experience
+## Volunteer Experience
 
 - Formula Student racing team - Rennteam Uni Stuttgart (2018-2019)
     - Hardware and software development of the power distribution module (PDM) from concept to deployment, consisting of an STM32 MCU, high-side switches and a CAN transceiver
@@ -90,7 +95,7 @@ I am experienced in microcontroller programming with a focus on connectivity.
 ## Languages
 
 - Turkish: Native
-- English: Working proficiency
+- English: Proficient (IELTS 8.5)
 - German: Working proficiency
 
 ## Personal Information
