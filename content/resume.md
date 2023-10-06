@@ -15,7 +15,7 @@ Currently working at the engineering firm [Nantis GmbH](https://www.nantis.de), 
     - Testing: CppUTest
     - CI: GitHub Actions
 - Communication technologies and protocols
-    - Peripheral communication: I2C, SPI, UART etc.
+    - Peripheral: I2C, SPI, UART etc.
     - Industrial: Modbus-RTU, CAN
     - Cellular: LTE modems, CAT-M1 and NB-IoT
     - Bluetooth LE basics: GAP, GATT
