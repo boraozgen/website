@@ -10,7 +10,7 @@ Currently working at the engineering firm [Nantis GmbH](https://www.nantis.de), 
     - Hardware platforms: STM32, nRF52, ESP32
     - RTOS/Frameworks: Mbed OS, FreeRTOS, exploring ESP-IDF and Zephyr
     - Build system: CMake
-    - GUI framework: lvgl 
+    - GUI framework: LVGL
     - OTA and bootloader (MCUboot)
     - Testing: CppUTest
     - CI: GitHub Actions
