@@ -16,7 +16,7 @@ Currently working at the engineering firm [Nantis GmbH](https://www.nantis.de), 
     - CI: GitHub Actions
 - Communication technologies and protocols
     - Peripheral: I2C, SPI, UART etc.
-    - Industrial: Modbus-RTU, CAN
+    - Industrial: Modbus, CAN
     - Cellular: LTE modems, CAT-M1 and NB-IoT
     - Bluetooth LE basics: GAP, GATT
     - Wi-Fi, LoRa basics
