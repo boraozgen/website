@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bora Özgen - CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 10px;
+            font-size: 80%;
+        }
+
+        h1,
+        h2 {
+            color: #2c3e50;
+            margin: 0;
+        }
+
+        h1 {
+            font-size: 2.5em;
+        }
+
+        h2 {
+            margin-top: 20px;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        .section {
+            margin-bottom: 20px;
+        }
+
+        .header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #2c3e50;
+            padding-bottom: 20px;
+        }
+
+        .name-title {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .job-title {
+            font-size: 1.2em;
+            color: #7f8c8d;
+            margin-top: 5px;
+        }
+
+        .photo {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid #2c3e50;
+        }
+
+        .contact-info {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="name-title">
+            <h1>Bora Özgen</h1>
+            <div class="job-title">Embedded Software Engineer</div>
+        </div>
+        <img src="static/profile.jpg" alt="Profile Photo" class="photo">
+    </div>
+    {{CONTENT}}
+</body>
+</html>
