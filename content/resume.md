@@ -45,7 +45,7 @@ Currently working at the engineering firm [Nantis GmbH](https://www.nantis.de), 
 
 - Modern system programming languages such as Rust and Zig
     - I follow blogs and occasionally develop small projects to keep up-to-date.
-    - C/C++ is not going anywhere soon, so modern C/C++ too. 
+    - C/C++ is not disappearing soon, so modern C/C++ too.
     - Keeping an eye on Ada/SPARK for formal verification on safety-critical systems.
 - Modern RTOSs such as Zephyr and NuttX
     - I developed many projects with Mbed OS but since it has been abandoned by Arm, I am exploring alternatives.
