@@ -1,5 +1,6 @@
-I am a software engineer with electronics background and current focus on embedded systems, 
-with 5+ years of experience in microcontroller programming and communication protocols. 
+I am a software engineer with electronics background and current focus on embedded systems, with 5+ years of experience in microcontroller programming and communication protocols.
+
+Passionate about solving problems with technology and automation, developing efficient and reliable systems. Looking for opportunities to work on cutting edge technologies.
 
 Currently working at the engineering firm [Nantis GmbH](https://www.nantis.de), developing firmware for customer projects and the [Gridknight](https://www.gridknight.com) smart plug.
 
@@ -26,7 +27,7 @@ Currently working at the engineering firm [Nantis GmbH](https://www.nantis.de), 
 - Electronics/hardware
     - Past experience with designing PCBs - can navigate datasheets, schematics and layouts
     - Sensors: Energy metering, acceleration, pressure, temperature etc.
-    - Actors: LEDs, stepper motors, piezo buzzers
+    - Actors: LEDs, displays, stepper motors, piezo buzzers
     - Peripherals: SPI flash, secure element, RTC, fuel gauge etc.
 - High-level software
     - Python: Preferred language for any kind of scripting, e.g. device provisioning and testing
@@ -67,14 +68,17 @@ Currently working at the engineering firm [Nantis GmbH](https://www.nantis.de), 
 ## Work Experience
 
 - Embedded software engineer @ [Nantis GmbH](https://www.nantis.de) (2020-present)
-    - Design, development, maintenance and support of multiple projects in various sectors, mostly microcontroller firmware
-    - Firmware development of the energy monitoring smart plug [Gridknight](https://www.gridknight.com) from concept to product launch
+    - Design, development, testing, production, maintenance and support of firmware for projects in various industries
+    - [Gridknight](https://www.gridknight.com): Energy monitoring smart plug with cellular connectivity and cloud integration
+    - [PegelMeter](https://nantis.de/referenzen/pegelmeter): Handheld measurement device for mobile networks with extensible modules and BLE connectivity
+    - Air pressure gauge for spray guns with an innovative GUI and optimized power consumption
+    - LED control for stage lighting, beacon lights, art exhibitions, illuminated bathtubs and more
 - Working student & Master's thesis @ [Vector Informatik](https://www.vector.com) (2018-2020)
     - AUTOSAR Adaptive integration and delivery, AUTOSAR Classic hardware support
     - Thesis: Implementing Plug and Charge for CHAdeMO (Smart charging stations and V2G communication)
 - Intern @ Punica Systems (2016-2017)
     - Hardware, firmware and web app development of an IoT sensor gateway based on ESP8266 Arduino core
-- Working student & Bachelor's thesis @ Arçelik A.Ş. (2015-2016)
+- Working student & Bachelor's thesis @ [Arçelik A.Ş.](https://www.arcelik.com.tr) (2015-2016)
     - Hardware and firmware development of an air quality sensor based on AVR MCUs
 
 ## Volunteer Experience
@@ -94,11 +98,11 @@ Currently working at the engineering firm [Nantis GmbH](https://www.nantis.de), 
 
 ## Languages
 
+- German: Fluent
+- English: Fluent (IELTS 8.5)
 - Turkish: Native
-- English: Proficient (IELTS 8.5)
-- German: Working proficiency
 
 ## Personal Information
 
 - Location: Stuttgart Area
-- Nationality: Turkish
+- Nationalities: German, Turkish
