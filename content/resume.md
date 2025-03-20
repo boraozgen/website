@@ -1,8 +1,6 @@
 I am a software engineer with electronics background and current focus on embedded systems, with 5+ years of experience in microcontroller programming and communication protocols.
 
-Passionate about solving problems with technology and automation, developing efficient and reliable systems. Looking for opportunities to work on cutting edge technologies.
-
-Currently working at the engineering firm [Nantis GmbH](https://www.nantis.de), developing firmware for customer projects and the [Gridknight](https://www.gridknight.com) smart plug.
+Passionate about solving problems with technology and automation, developing efficient and reliable systems. Currently working at the engineering firm [Nantis GmbH](https://www.nantis.de), developing firmware for customer projects and the [Gridknight](https://www.gridknight.com) smart plug.
 
 ## Skills
 
